@@ -1,3 +1,8 @@
-trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&type=tcp&sni=google.com#US🇺🇸 | google.com-443 | 6.9ms
-trojan://knRrjEPWd5@164.90.167.137:2095?type=ws&host=164.90.167.137&path=%2F2.v2ray.debian.org.fxp.debian.org.speedtest.net.%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.madariran.filegear-sg.m#DE🇩🇪 | 164.90.167.137-2095 | 91.8ms
-trojan://8786fc10-c976-46a4-a97c-9f2056302f03@es-full.privateip.net:443?type=tcp&security=tls#ES🇪🇸 | es-full.privateip.net-443 | 127.48ms
+trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&type=tcp&sni=google.com#US🇺🇸 | google.com-443 | 20.96ms
+trojan://knRrjEPWd5@164.90.167.137:2095?type=ws&host=164.90.167.137&path=%2F2.v2ray.debian.org.fxp.debian.org.speedtest.net.%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.madariran.filegear-sg.m#DE🇩🇪 | 164.90.167.137-2095 | 154.77ms
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@w3.org:443?type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&security=tls&sni=msnghdfy4c2.cpiforpersia.uk&alpn=h2&fp=chrome#RELAY🚩 | msnghdfy4c2.cpiforpersia.uk-443 | 2.35ms
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@nodejs.org:443?type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&security=tls&sni=msnghdfy4c2.cpiforpersia.uk&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#RELAY🚩 | msnghdfy4c2.cpiforpersia.uk-443 | 2.45ms
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@cumhuriyet.com.tr:443?type=ws&host=msnghdfy4c1.iraniancpi.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&security=tls&sni=msnghdfy4c1.iraniancpi.uk&alpn=http%2F1.1&fp=chrome#RELAY🚩 | msnghdfy4c1.iraniancpi.uk-443 | 2.12ms
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@coinspeaker.com:443?type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&security=tls&sni=msnghdfy4c1.iraniancpi.uk&alpn=h2&fp=chrome#RELAY🚩 | msnghdfy4c1.iraniancpi.uk-443 | 2.13ms
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@bluehost.com:443?type=ws&host=msnghdfy4c2.cpiforpersia.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&security=tls&sni=msnghdfy4c2.cpiforpersia.uk&alpn=http%2F1.1&fp=chrome#RELAY🚩 | msnghdfy4c2.cpiforpersia.uk-443 | 2.28ms
+trojan://8786fc10-c976-46a4-a97c-9f2056302f03@es-full.privateip.net:443?type=tcp&security=tls#ES🇪🇸 | es-full.privateip.net-443 | 198.77ms
