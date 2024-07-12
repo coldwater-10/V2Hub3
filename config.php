@@ -16,6 +16,7 @@ $subscription_urls = [
   "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_3.txt",
   "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_4.txt",
   "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt",
+  "https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment",
   "https://raw.githubusercontent.com/XYZMojtaba/sub/main/adsl.txt",
   "https://raw.githubusercontent.com/XYZMojtaba/sub/main/mci.txt",
   "https://raw.githubusercontent.com/XYZMojtaba/sub/main/mtn.txt",
