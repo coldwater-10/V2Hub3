@@ -1,7 +1,7 @@
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 235.82ms
-trojan://auto@172.67.68.157:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-443 | 81.91ms
-trojan://auto@172.67.2.238:2083?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2083 | 9.33ms
-trojan://auto@162.159.136.232:8443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-8443 | 9.29ms
-trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 9.26ms
-trojan://865bc912-0b17-4bd1-b711-958d77232689@coal.zichuanlan.top:443?security=tls&headerType=none&type=tcp&sni=coal.zichuanlan.top#HK🇭🇰 | coal.zichuanlan.top-443 | 532.84ms
-trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s&security=tls&alpn=h2&host=hidd2.afsharidempire.uk&fp=chrome&type=ws&sni=hidd2.afsharidempire.uk#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 166.46ms
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 206.63ms
+trojan://auto@172.67.68.157:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-443 | 15.97ms
+trojan://auto@172.67.2.238:2083?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2083 | 2.41ms
+trojan://auto@162.159.136.232:8443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-8443 | 2.47ms
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 3.2ms
+trojan://865bc912-0b17-4bd1-b711-958d77232689@coal.zichuanlan.top:443?security=tls&headerType=none&type=tcp&sni=coal.zichuanlan.top#HK🇭🇰 | coal.zichuanlan.top-443 | 400.32ms
+trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s&security=tls&alpn=h2&host=hidd2.afsharidempire.uk&fp=chrome&type=ws&sni=hidd2.afsharidempire.uk#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 145.88ms
