@@ -1,5 +1,7 @@
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 180.97ms
-trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 74.57ms
-trojan://JiFAKwJXpj@148.135.45.121:45093?type=tcp&security=none#US🇺🇸 | 148.135.45.121-45093 | 8.87ms
-trojan://CI3olZiurt@germany.raspberryip.com:14412?type=grpc&security=tls&sni=germany.raspberryip.com&alpn=h2%2Chttp%2F1.1&fp=chrome#JO🇯🇴 | germany.raspberryip.com-14412 | 209.65ms
-trojan://865bc912-0b17-4bd1-b711-958d77232689@coal.zichuanlan.top:443?security=tls&headerType=none&type=tcp&sni=coal.zichuanlan.top#HK🇭🇰 | coal.zichuanlan.top-443 | 314.78ms
+trojan://sharevpn@tr1.mynode.work.gd:443?security=tls&alpn=http%2F1.1&headerType=none&fp=chrome&type=tcp&sni=tr1.mynode.work.gd#SG🇸🇬 | tr1.mynode.work.gd-443 | 292.94ms
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 155.47ms
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 14.54ms
+trojan://JiFAKwJXpj@148.135.45.121:45093?type=tcp&security=none#US🇺🇸 | 148.135.45.121-45093 | 8.58ms
+trojan://CI3olZiurt@germany.raspberryip.com:14412?type=grpc&security=tls&sni=germany.raspberryip.com&alpn=h2%2Chttp%2F1.1&fp=chrome#JO🇯🇴 | germany.raspberryip.com-14412 | 230.99ms
+trojan://865bc912-0b17-4bd1-b711-958d77232689@coal.zichuanlan.top:443?security=tls&headerType=none&type=tcp&sni=coal.zichuanlan.top#HK🇭🇰 | coal.zichuanlan.top-443 | 310.8ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=%2F6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#RELAY🚩 | jobscareerfortoday.com-443 | 60.16ms
