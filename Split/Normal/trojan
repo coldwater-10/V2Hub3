@@ -1,2 +1,12 @@
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 201.7ms
-trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 33.18ms
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 244.31ms
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 30.64ms
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freefhc01.jd0001.top:15734?security=tls&sni=freefhc01.jd0001.top&type=grpc&serviceName=freefhc01#RELAY🚩 | freefhc01.jd0001.top-15734 | 539.57ms
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freefhc01.jd0001.top:17644?security=tls&sni=freefhc01.jd0001.top&type=grpc&serviceName=freefhc01#RELAY🚩 | freefhc01.jd0001.top-17644 | 261.57ms
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freehr01.jd0001.top:15055?security=tls&sni=freehr01.jd0001.top&type=grpc&serviceName=freehr01#RELAY🚩 | freehr01.jd0001.top-15055 | 646.95ms
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freehr01.jd0001.top:15055?security=tls&sni=freehr01.jd0001.top&type=grpc&serviceName=freehr01#RELAY🚩 | freehr01.jd0001.top-15055 | 423.17ms
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp01.jd0001.top:34675?security=tls&sni=freejp01.jd0001.top&type=grpc&serviceName=freejp01#JP🇯🇵 | freejp01.jd0001.top-34675 | 693.04ms
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp01.jd0001.top:34675?security=tls&sni=freejp01.jd0001.top&type=grpc&serviceName=freejp01#JP🇯🇵 | freejp01.jd0001.top-34675 | 676.14ms
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freejp01.jd0001.top:37578?security=tls&sni=freejp01.jd0001.top&type=grpc&serviceName=freejp01#JP🇯🇵 | freejp01.jd0001.top-37578 | 720.24ms
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp03.jd0001.top:17305?security=tls&sni=freejp03.jd0001.top&type=grpc&serviceName=freejp03#JP🇯🇵 | freejp03.jd0001.top-17305 | 716.36ms
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp03.jd0001.top:17305?security=tls&sni=freejp03.jd0001.top&type=grpc&serviceName=freejp03#JP🇯🇵 | freejp03.jd0001.top-17305 | 503.56ms
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freesg01.jd0001.top:13498?security=tls&sni=freesg01.jd0001.top&type=grpc&serviceName=freesg01#SG🇸🇬 | freesg01.jd0001.top-13498 | 540.8ms
