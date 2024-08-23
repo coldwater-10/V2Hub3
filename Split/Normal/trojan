@@ -1,5 +1,5 @@
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 199.14ms
-trojan://bVUMJoUwGYvDLGbfZyt52ynMi@free-nl-2.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-nl-2.undef.network&type=ws&sni=free-nl-2.undef.network#NL🇳🇱 | free-nl-2.undef.network-443 | 192.41ms
-trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 16.91ms
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#RELAY🚩 | jobscareerforlawyers.com-443 | 27.32ms
-trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com&fp=chrome#RELAY🚩 | jobscareerforstudent.com-443 | 81.36ms
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 153.77ms
+trojan://bVUMJoUwGYvDLGbfZyt52ynMi@free-nl-2.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-nl-2.undef.network&type=ws&sni=free-nl-2.undef.network#NL🇳🇱 | free-nl-2.undef.network-443 | 231.67ms
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 22.46ms
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#RELAY🚩 | jobscareerforlawyers.com-443 | 116.71ms
+trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com&fp=chrome#RELAY🚩 | jobscareerforstudent.com-443 | 118.14ms
