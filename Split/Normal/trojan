@@ -1,8 +1,8 @@
-trojan://tg-dns68@cf.090227.xyz:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#RELAY🚩 | vip.putata.eu.org-443 | 102.58ms
-trojan://hjcgdAqcim@140.82.33.72:20722?security=tls&headerType=none&type=tcp#DE🇩🇪 | 140.82.33.72-20722 | 88.29ms
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 202.86ms
-trojan://bVUMJoUwGYvDLGbfZyt52ynMi@free-nl-2.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-nl-2.undef.network&type=ws&sni=free-nl-2.undef.network#NL🇳🇱 | free-nl-2.undef.network-443 | 213.51ms
-trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 38.32ms
-trojan://aPZZKvsJU6@140.82.33.72:56275?mode=gun&security=tls&type=grpc&serviceName=#DE🇩🇪 | 140.82.33.72-56275 | 99.93ms
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#RELAY🚩 | bangladeshipatri.com-443 | 79.03ms
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#RELAY🚩 | jobscareerforlawyers.com-443 | 74.18ms
+trojan://tg-dns68@cf.090227.xyz:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#RELAY🚩 | vip.putata.eu.org-443 | 203.69ms
+trojan://hjcgdAqcim@140.82.33.72:20722?security=tls&headerType=none&type=tcp#DE🇩🇪 | 140.82.33.72-20722 | 91.25ms
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 229.34ms
+trojan://bVUMJoUwGYvDLGbfZyt52ynMi@free-nl-2.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-nl-2.undef.network&type=ws&sni=free-nl-2.undef.network#NL🇳🇱 | free-nl-2.undef.network-443 | 239.26ms
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 32.21ms
+trojan://aPZZKvsJU6@140.82.33.72:56275?mode=gun&security=tls&type=grpc&serviceName=#DE🇩🇪 | 140.82.33.72-56275 | 91.72ms
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#RELAY🚩 | bangladeshipatri.com-443 | 86.25ms
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#RELAY🚩 | jobscareerforlawyers.com-443 | 91.82ms
