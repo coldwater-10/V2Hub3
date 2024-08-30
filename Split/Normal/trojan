@@ -1,7 +1,7 @@
-trojan://tg-dns68@cf.090227.xyz:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#RELAY🚩 | vip.putata.eu.org-443 | 109.59ms
-trojan://hjcgdAqcim@140.82.33.72:20722?security=tls&headerType=none&type=tcp#DE🇩🇪 | 140.82.33.72-20722 | 90.03ms
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 203.57ms
-trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 24.45ms
-trojan://aPZZKvsJU6@140.82.33.72:56275?mode=gun&security=tls&type=grpc&serviceName=#DE🇩🇪 | 140.82.33.72-56275 | 92.43ms
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#RELAY🚩 | bangladeshipatri.com-443 | 38.42ms
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#RELAY🚩 | jobscareerforlawyers.com-443 | 91.54ms
+trojan://tg-dns68@cf.090227.xyz:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#RELAY🚩 | vip.putata.eu.org-443 | 205.3ms
+trojan://hjcgdAqcim@140.82.33.72:20722?security=tls&headerType=none&type=tcp#DE🇩🇪 | 140.82.33.72-20722 | 149.26ms
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 239.76ms
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 90.05ms
+trojan://aPZZKvsJU6@140.82.33.72:56275?mode=gun&security=tls&type=grpc&serviceName=#DE🇩🇪 | 140.82.33.72-56275 | 141.89ms
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#RELAY🚩 | bangladeshipatri.com-443 | 111.66ms
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#RELAY🚩 | jobscareerforlawyers.com-443 | 92.43ms
